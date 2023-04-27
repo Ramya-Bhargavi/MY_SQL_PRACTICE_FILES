@@ -1,8 +1,0 @@
-1) how many movies were released between 2015 and 2022
-2) print the max and min movie release year
-3) print a year and how many movies were released in that year starting with latest year
-4) learn about different sql functions, do some hands on for different functions(atleast 5) not covered in class using movies db
-
-
-
-
