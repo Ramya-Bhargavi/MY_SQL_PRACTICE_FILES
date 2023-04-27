@@ -1,0 +1,1 @@
+create table dept(dept_id number, dname varchar(14),gender char(10),constraint pk_dept primary key(dept_id))
