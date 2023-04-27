@@ -1,0 +1,19 @@
+after my sql downaload
+click run
+go to custom settings
+download ...
+   mysql server
+   mysql work bench
+   mysql shell
+   .net connector
+   documentation
+   samples and exmaples
+
+
+execute
+
+username : root 
+password: root
+
+next next execute finish 
+

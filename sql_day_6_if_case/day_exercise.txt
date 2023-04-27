@@ -1,0 +1,2 @@
+1) Print profit % for all the movies 
+2) Take 5 different functions not discussed in class and apply them on the movies db dataset.
